@@ -1,0 +1,11 @@
+
+profile: Профиль
+forums: Форумы
+apps:
+  forums:
+    new_topic: Новая тема
+    last_post:
+      title : Последнее сообщение
+      by : от
+demo:
+  apples: "На столе лежит #{count} ((яблоко|яблока|яблок))"
